@@ -23,6 +23,8 @@ html {
 
 body {
   margin: 0;
+  background-color: #000;
+  color:#fff;
 }
 
 .img-flex {
@@ -39,5 +41,18 @@ html {
     font-family: 'Playfair Display SC', serif;
     font-size: 1em;
     letter-spacing: 3px;
-    color: #151515;
+    color: #white;
+}
+
+.businesscard {
+    width: 400px;
+    height: 250px;
+    background-color: #fffefe;
+    background-image: url(../images/natural-paper.png);
+    margin: auto;
+    border-radius: 2px;
+    margin-bottom: 50px;
+    padding-left: 8px;
+    padding-top: 8px;
+    box-shadow: 5px 5px 10px rgba(15, 15, 15, .075);
 }
