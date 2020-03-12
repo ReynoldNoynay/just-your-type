@@ -1,15 +1,11 @@
-html {
-
-}
-
 body {
-  background-color: #a9a9a9;
+  background-color: #dedede;
 }
 
-.businesscard {
+.businesscard{
   width: 400px;
-  height: 650px;
-  background-color: #d3d3d3;
+  height: 900px;
+  background-color: #ececec;
   text-align: center;
   margin: auto;
   border-radius: 2px;
@@ -19,14 +15,31 @@ body {
   box-shadow: 5px 5px 10px rgba(15, 15, 15, .075);
 }
 
-figcaption {
-  padding: 1rem;
-  position: absolute;
-  bottom: .5rem;
-  left: .5rem;
-  color: white;
-  background-color: rgba(0, 0, 0, .5);
-  border-radius: 8px;
-  max-width: 15em;
-  padding-left: 1rem;
+.businesscard h1 {
+  font-family: Indie, serif;
+}
+
+.businesscard h2 {
+  font-family: Flower, serif;
+}
+
+.homer {
+  background-color: #009dff;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.marge {
+  background-color: #7fff00;
+  width: 300px;
+  padding-left: 100px;
+  margin: 20px;
+}
+
+.grid {
+  background-color: #d4d4d4;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
 }
