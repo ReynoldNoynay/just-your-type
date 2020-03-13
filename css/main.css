@@ -22,7 +22,7 @@ h1 {
 }
 
 p {
-  font-family: "Indie Flower";
+  font-family: 'Staatliches', cursive;
 }
 
 .grid {
@@ -32,7 +32,33 @@ p {
   margin: auto;
 }
 
- /*Fonts =
+.inter {
+ font-family: 'Inter', sans-serif;
+}
+
+.monoton {
+   font-family: "Monoton" cursive;
+}
+
+.elite {
+   font-family: 'Special Elite', cursive;
+   color: red;
+   border: 2px solid black;
+    transform: rotate(20deg);
+}
+
+.swanky {
+  font-family: 'Swanky and Moo Moo', cursive;
+  color: blue;
+}
+
+.cabin {
+  font-family: 'Cabin Sketch', cursive;
+  color: green;
+}
+
+
+/* Fonts =
  font-family: 'Swanky and Moo Moo', cursive;
  font-family: 'Special Elite', cursive;
  font-family: 'Monoton', cursive;
