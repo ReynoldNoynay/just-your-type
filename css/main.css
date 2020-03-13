@@ -2,10 +2,9 @@ body {
   background-color: #dedede;
 }
 
-.businesscard{
+.businesscard {
   width: 400px;
-  height: 900px;
-  background-color: #ececec;
+  height: 600px;
   text-align: center;
   margin: auto;
   border-radius: 2px;
@@ -15,31 +14,21 @@ body {
   box-shadow: 5px 5px 10px rgba(15, 15, 15, .075);
 }
 
-.businesscard h1 {
-  font-family: Indie, serif;
+h1 {
+  font-family: "Indie Flower", sans-serif;
 }
 
 .businesscard h2 {
-  font-family: Flower, serif;
+  font-family: Montserrat, serif;
 }
 
-.homer {
-  background-color: #009dff;
+p {
+  font-family: "Indie Flower";
+}
+
+.crazy {
+  text-align: center;
   width: 300px;
   padding: 50px;
-  margin: 20px;
-}
-
-.marge {
-  background-color: #7fff00;
-  width: 300px;
-  padding-left: 100px;
-  margin: 20px;
-}
-
-.grid {
-  background-color: #d4d4d4;
-  width: 300px;
-  padding: 50px;
-  margin: 20px;
+  margin: auto;
 }
